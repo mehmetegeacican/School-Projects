@@ -1,4 +1,4 @@
-# School-Projects-
+# School-Projects
 Various Projects for School, The Projects include:
 
 ### Bioinformatic Algorithms
