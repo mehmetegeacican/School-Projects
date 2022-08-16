@@ -1,0 +1,7 @@
+all: top_thread_synchron top_process_synchron
+
+top_thread_synchron: top_thread_synchron.c
+	 gcc -Wall -o top_thread_synchron top_thread_synchron.c -lrt -lpthread
+top_process_synchron: top_process_synchron.c
+	 gcc -Wall -o top_process_synchron top_process_synchron.c -lrt -pthread
+
