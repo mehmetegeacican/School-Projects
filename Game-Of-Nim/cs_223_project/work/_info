@@ -1,0 +1,210 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vGame
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1525515351
+!i10b 1
+!s100 9bcVOfJASnNlR4jnm2=zj3
+IoW=D=8^C8NDGgX1cj79A02
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 game_sv_unit
+S1
+Z3 dC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project
+w1525515347
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv
+L0 1
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1525515351.000000
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@game
+vinputCapture
+R0
+R1
+!i10b 1
+!s100 k2aY[SWPf@>]<fZ;4ZZ6h2
+I8TgaaSW_^J93@iLZHSEF[2
+R2
+!s105 inputCapture_sv_unit
+S1
+R3
+w1525515260
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv|
+!s101 -O0
+!i113 1
+R6
+ninput@capture
+vpushButton
+R0
+R1
+!i10b 1
+!s100 XE162>3OmIE_j^c84OT_b0
+IKa:fXO0H_RiX`PHnj5:6:1
+R2
+!s105 pushButton_sv_unit
+S1
+R3
+w1525371742
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv|
+!s101 -O0
+!i113 1
+R6
+npush@button
+vscoreCalculate
+R0
+R1
+!i10b 1
+!s100 EV?CZUz95lOE9>;gkdEW?1
+IG[ocNlB>4Y>5;2BKD_A]j3
+R2
+!s105 scoreCalculate_sv_unit
+S1
+R3
+w1525510851
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv|
+!s101 -O0
+!i113 1
+R6
+nscore@calculate
+vSevSeg_4digit
+R0
+R1
+!i10b 1
+!s100 Hi:YC904QY_5NXlLNWU5a2
+I>H2H^T?1^XXI@4G295hMF0
+R2
+!s105 SevSeg_4digit_sv_unit
+S1
+R3
+w1521540336
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv
+L0 48
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv|
+!s101 -O0
+!i113 1
+R6
+n@sev@seg_4digit
+vtopRBG
+R0
+R1
+!i10b 1
+!s100 IaGW@VW0c<CH=T9h2?hdV3
+I^Bg3>H`Dg@jHX6LZ9;4h82
+R2
+!s105 topRBG_sv_unit
+S1
+R3
+w1525514598
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv
+L0 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv|
+!s101 -O0
+!i113 1
+R6
+ntop@r@b@g
+vtopScoreBoard
+R0
+R1
+!i10b 1
+!s100 O0:bUKN2EnmgBY9b?;K;k0
+I<3j@6;odzMD8_LN_MgmUh2
+R2
+!s105 topScoreBoard_sv_unit
+S1
+R3
+w1525514048
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv|
+!s101 -O0
+!i113 1
+R6
+ntop@score@board
+vtopStep
+R0
+R1
+!i10b 1
+!s100 ;L1gFKO=DeVVEkJe?]fOC1
+IS9ZI@@8X@KeSziO:=8_I32
+R2
+!s105 topStep_sv_unit
+S1
+R3
+w1525512683
+8C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv
+FC:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv|
+!s101 -O0
+!i113 1
+R6
+ntop@step

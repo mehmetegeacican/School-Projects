@@ -1,0 +1,57 @@
+C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topScoreBoard.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module topScoreBoard
+
+Top level modules:
+	topScoreBoard
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topStep.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module topStep
+
+Top level modules:
+	topStep
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/pushButton.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pushButton
+
+Top level modules:
+	pushButton
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/inputCapture.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module inputCapture
+
+Top level modules:
+	inputCapture
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/SevSeg_4digit.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SevSeg_4digit
+
+Top level modules:
+	SevSeg_4digit
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/topRBG.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module topRBG
+
+Top level modules:
+	topRBG
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/scoreCalculate.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module scoreCalculate
+
+Top level modules:
+	scoreCalculate
+
+} {} {}} C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv {1 {vlog -work work -sv -stats=none C:/Users/EGE/Desktop/Bilkent/2.sinif_2.donem/CS_223/Cs223_project/cs_223_project/game.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Game
+
+Top level modules:
+	Game
+
+} {} {}}
