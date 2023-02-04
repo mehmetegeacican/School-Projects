@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610434456 source:c:\users\ege\desktop\data_structures_c++\linkedlist\pblist.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbList.h"
+
+1610372982 c:\users\ege\desktop\data_structures_c++\linkedlist\pblist.h
+	<string>
+	"PbNode.h"
+
+1610355886 c:\users\ege\desktop\data_structures_c++\linkedlist\pbnode.h
+	<string>
+
+1610436377 source:c:\users\ege\desktop\data_structures_c++\linkedlists\pblist.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbList.h"
+
+1610372982 c:\users\ege\desktop\data_structures_c++\linkedlists\pblist.h
+	<string>
+	"PbNode.h"
+
+1610355886 c:\users\ege\desktop\data_structures_c++\linkedlists\pbnode.h
+	<string>
+

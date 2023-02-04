@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609241027 source:c:\users\ege\desktop\data_structures\sortingmethods\sortingmethods.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	"SortingMethods.h"
+
+1609241052 c:\users\ege\desktop\data_structures\sortingmethods\sortingmethods.h
+	<string>
+	"SortingMethods.h"
+

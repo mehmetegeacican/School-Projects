@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1610604172 source:c:\users\ege\desktop\data_structures_c++\stackandqueue\stack.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"Stack.h"
+
+1610448742 c:\users\ege\desktop\data_structures_c++\stackandqueue\stack.h
+	<string>
+	"Node.h"
+
+1610448975 c:\users\ege\desktop\data_structures_c++\stackandqueue\node.h
+	<string>
+
+1610604356 source:c:\users\ege\desktop\data_structures_c++\stackandqueue\queue.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"Queue.h"
+
+1610448835 c:\users\ege\desktop\data_structures_c++\stackandqueue\queue.h
+	<string>
+	"Node.h"
+
+1610604940 source:c:\users\ege\desktop\data_structures_c++\stackandqueue\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"Stack.h"
+	"Queue.h"
+

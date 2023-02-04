@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609262710 source:c:\users\ege\desktop\searchandsort\searchmethods\searchmethods\searchmethods.cpp
+	<bits/stdc++.h>
+	<stdlib.h>
+	<time.h>
+	<ctime>
+	"SearchMethods.h"
+
+1609262794 c:\users\ege\desktop\searchandsort\searchmethods\searchmethods\searchmethods.h
+	<string>
+

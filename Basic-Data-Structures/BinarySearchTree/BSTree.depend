@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1635483800 source:c:\users\ege\desktop\data_structures_c++\bstree\bstree\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<algorithm>
+	<stdlib.h>
+	"PbBST.h"
+	"analysis.h"
+
+1635484938 source:c:\users\ege\desktop\data_structures_c++\bstree\bstree\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+	"analysis.h"
+
+1635484743 c:\users\ege\desktop\data_structures_c++\bstree\bstree\pbbst.h
+	<string>
+	"PbBSTNode.h"
+
+1635414034 c:\users\ege\desktop\data_structures_c++\bstree\bstree\pbbstnode.h
+	<string>
+
+1635414511 c:\users\ege\desktop\data_structures_c++\bstree\bstree\analysis.h
+
+1635484965 source:c:\users\ege\desktop\data_structures_c++\bstree\bstree\pbbst.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"PbBST.h"
+
+1635483800 source:c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<algorithm>
+	<stdlib.h>
+	"PbBST.h"
+	"analysis.h"
+
+1635484743 c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\pbbst.h
+	<string>
+	"PbBSTNode.h"
+
+1635414034 c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\pbbstnode.h
+	<string>
+
+1635414511 c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\analysis.h
+
+1635484938 source:c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"PbBST.h"
+	"analysis.h"
+
+1635484965 source:c:\users\ege\desktop\data_structures_c++\binarysearchtree\binarysearchtree\pbbst.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"PbBST.h"
+

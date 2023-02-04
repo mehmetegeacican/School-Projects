@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1636796589 source:c:\users\ege\desktop\data_structures_c++\avltree\avltree\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	"avlTree.h"
+	"analysis.h"
+
+1636797196 c:\users\ege\desktop\data_structures_c++\avltree\avltree\avltree.h
+	"avlNode.h"
+
+1636261694 c:\users\ege\desktop\data_structures_c++\avltree\avltree\avlnode.h
+	<string>
+
+1636797182 source:c:\users\ege\desktop\data_structures_c++\avltree\avltree\avltree.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<stdlib.h>
+	<bits/stdc++.h>
+	"avlTree.h"
+
+1636798067 source:c:\users\ege\desktop\data_structures_c++\avltree\avltree\analysis.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<algorithm>
+	<stdlib.h>
+	"avlTree.h"
+	"analysis.h"
+
+1636263515 c:\users\ege\desktop\data_structures_c++\avltree\avltree\analysis.h
+
