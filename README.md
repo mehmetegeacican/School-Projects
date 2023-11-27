@@ -12,3 +12,6 @@ Project for CS223 Digital Design lesson (SystemVerilog)
 
 ### Basic-Data-Structures
 Extended Versions of the Homeworks of Fundamental Structures of Computer Science II class. CS202 (C++,Makefile)
+
+### Reinforced-Learning-Algorithms
+3 Reinforced Learning Algorithms (A Star, Min-Max, Missionary-Cannibal)
